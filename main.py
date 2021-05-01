@@ -14,7 +14,7 @@ def task():
     hitlist=[]
     while rdln:
         date = str(datetime.date.today())
-        link="https://cdn-api.co-vin.in/api/v2/appointment/sessions/public/findByPin?pincode="+rdln.strip()+"&date="+"01"+"-"+date[5]+date[6]+"-"+date[0]+date[1]+date[2]+date[3]
+        link="https://cdn-api.co-vin.in/api/v2/appointment/sessions/public/findByPin?pincode="+rdln.strip()+"&date="+date[8]+date[9]+"-"+date[5]+date[6]+"-"+"2021
         x = requests.get(link)
         # print(link)
         data = json.loads(x.text)
