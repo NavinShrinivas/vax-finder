@@ -1,0 +1,459 @@
+A F Station Yelahanka S.O	Bangalore	560063
+Adugodi S.O	Bangalore	560030
+Agara B.O	Bangalore	560034
+Agram S.O	Bangalore	560007
+Amruthahalli B.O	Bangalore	560092
+Anandnagar S.O (Bangalore)	Bangalore	560024
+Anekal S.O	Bangalore	562106
+Anekalbazar B.O	Bangalore	562106
+Arabic College S.O	Bangalore	560045
+Ashoknagar S.O (Bangalore)	Bangalore	560050
+Attibele S.O	Bangalore	562107
+Attur B.O	Bangalore	560064
+Austin Town S.O	Bangalore	560047
+B Sk II Stage S.O	Bangalore	560070
+Bagalgunte B.O	Bangalore	560073
+Bagalur S.O (Bangalore)	Bangalore	562149
+Banashankari III Stage S.O	Bangalore	560085
+Banashankari S.O	Bangalore	560050
+Banaswadi S.O	Bangalore	560043
+Bandikodigehalli B.O	Bangalore	562149
+Bangalore Bazaar S.O	Bangalore	560001
+Bangalore City S.O	Bangalore	560002
+Bangalore Corporation Building S.O	Bangalore	560002
+Bangalore Dist Offices Bldg S.O	Bangalore	560009
+Bangalore G.P.O.	Bangalore	560001
+Bangalore International Airport S.O	Bangalore	560300
+Bannerghatta Road S.O	Bangalore	560076
+Bannerghatta S.O	Bangalore	560083
+Bapagrama B.O	Bangalore	560091
+Basavanagudi H.O	Bangalore	560004
+Basaveshwaranagar S.O	Bangalore	560079
+Begur B.O	Bangalore	560068
+Bellandur S.O	Bangalore	560103
+Benson Town S.O	Bangalore	560046
+Bestamaranahalli B.O	Bangalore	562106
+Bettahalsur S.O	Bangalore	562157
+Bhattarahalli S.O	Bangalore	560049
+Bidaraguppe B.O	Bangalore	562107
+Bidrahalli B.O	Bangalore	560049
+Bilekahalli B.O	Bangalore	560076
+Bnagalore Viswavidalaya S.O	Bangalore	560056
+Bolare B.O	Bangalore	560082
+Bommanahalli S.O (Bangalore)	Bangalore	560068
+Bommasandra Industrial Estate S.O	Bangalore	560099
+BSF Campus Yelahanka S.O	Bangalore	560063
+Byatarayanapura B.O	Bangalore	560085
+Byatarayanapura B.O	Bangalore	560092
+C.V.Raman Nagar S.O	Bangalore	560093
+Carmelaram S.O	Bangalore	560035
+Chamarajasagara B.O	Bangalore	562120
+Chamrajpet S.O (Bangalore)	Bangalore	560018
+Chandapura B.O	Bangalore	560099
+Chandra Lay Out S.O	Bangalore	560040
+Chickpet S.O	Bangalore	560053
+Chikkabettahalli B.O	Bangalore	560097
+Chikkabidarkal S.O	Bangalore	560073
+Chikkajala B.O	Bangalore	562157
+Chikkalasandra S.O	Bangalore	560061
+Chikkanahalli B.O	Bangalore	562130
+Chudenapura B.O	Bangalore	560060
+Chunchanakuppe B.O	Bangalore	562130
+CMP Centre And School S.O	Bangalore	560025
+CRPF Campus Yelahanka S.O	Bangalore	560064
+Cubban Road S.O	Bangalore	560001
+Dasarahalli(Srinagar) S.O	Bangalore	560050
+Deepanjalinagar S.O	Bangalore	560026
+Devanagundi B.O	Bangalore	560067
+Devasandra S.O	Bangalore	560036
+Dharmaram College S.O	Bangalore	560029
+Doddagubbi B.O	Bangalore	562149
+Doddajala B.O	Bangalore	562157
+Doddakallasandra S.O	Bangalore	560062
+Doddanekkundi B.O	Bangalore	560037
+Domlur S.O	Bangalore	560071
+Dommasandra B.O	Bangalore	562125
+Doorvaninagar S.O	Bangalore	560016
+Dr. Ambedkar Veedhi S.O	Bangalore	560001
+Dr. Shivarama Karanth Nagar S.O	Bangalore	560077
+Electronics City S.O	Bangalore	560100
+Fraser Town S.O	Bangalore	560005
+G.K.V.K. S.O	Bangalore	560065
+Gaviopuram Extension S.O	Bangalore	560019
+Gayathrinagar S.O	Bangalore	560021
+Girinagar S.O (Bangalore)	Bangalore	560085
+Gottigere S.O	Bangalore	560083
+Governmemnt Electric Factory S.O	Bangalore	560026
+Gunjur B.O	Bangalore	560087
+H.A. Farm S.O	Bangalore	560024
+H.A.L II Stage H.O	Bangalore	560008
+H.K.P. Road S.O	Bangalore	560051
+Hampinagar S.O	Bangalore	560104
+Handenahalli B.O	Bangalore	562125
+Haragadde B.O	Bangalore	560105
+Hebbagodi B.O	Bangalore	560099
+Hebbal Kempapura S.O	Bangalore	560024
+Hennagara B.O	Bangalore	560105
+Herohalli B.O	Bangalore	560091
+Herohalli S.O	Bangalore	560091
+HighCourt S.O	Bangalore	560001
+Hongasandra B.O	Bangalore	560068
+Hoodi B.O	Bangalore	560048
+Horamavu B.O	Bangalore	560043
+Hosakerehalli B.O	Bangalore	560085
+HSR Layout S.O	Bangalore	560102
+Hulimangala B.O	Bangalore	560105
+Hulimavu B.O	Bangalore	560076
+Hulsur Bazaar S.O	Bangalore	560008
+Hunasamaranahalli B.O	Bangalore	562157
+Immedihalli B.O	Bangalore	560066
+Indalavadi B.O	Bangalore	562106
+Indiranagar S.O (Bangalore)	Bangalore	560038
+Industrial Estate S.O (Bangalore)	Bangalore	560010
+ISRO Anthariksha Bhavan S.O	Bangalore	560094
+J P Nagar S.O	Bangalore	560078
+J.C.Nagar S.O	Bangalore	560006
+Jakkur B.O	Bangalore	560064
+Jalahalli East S.O	Bangalore	560014
+Jalahalli H.O	Bangalore	560013
+Jalahalli West S.O	Bangalore	560015
+Jalavayuvihar S.O	Bangalore	560043
+Jayanagar H.O	Bangalore	560041
+Jayanagar West S.O	Bangalore	560070
+Jayangar III Block S.O	Bangalore	560011
+Jeevabhimanagar B.O	Bangalore	560075
+Jeevanbhimanagar S.O	Bangalore	560075
+Jigani S.O	Bangalore	560105
+JP Nagar III Phase S.O	Bangalore	560078
+JP Nagar VIII phase S.O	Bangalore	560076
+K H B Colony S.O	Bangalore	560079
+K. G. Road S.O	Bangalore	560009
+Kacharakanahalli B.O	Bangalore	560084
+Kadabagere B.O	Bangalore	562130
+Kadugodi S.O	Bangalore	560067
+Kallubalu B.O	Bangalore	560083
+Kalyananagar S.O	Bangalore	560043
+Kamakshipalya S.O	Bangalore	560079
+Kanakanagar S.O	Bangalore	560032
+Kannamangala B.O	Bangalore	560067
+Kannur B.O	Bangalore	562149
+Kanteeravanagar S.O	Bangalore	560096
+Kathriguppe S.O	Bangalore	560085
+Kenchanahalli B.O	Bangalore	560098
+Kodigehalli B.O	Bangalore	560092
+Konanakunte B.O	Bangalore	560062
+Koramangala I Block S.O	Bangalore	560034
+Koramangala S.O	Bangalore	560034
+Koramangala VI Bk S.O	Bangalore	560095
+Kothanur S.O	Bangalore	560077
+Krishnarajapuram R S S.O	Bangalore	560016
+Krishnarajapuram S.O	Bangalore	560036
+Kugur B.O	Bangalore	562125
+Kumaraswamy Layout S.O	Bangalore	560078
+Kumbalagodu S.O	Bangalore	560074
+Kumbalgodu Gollahalli B.O	Bangalore	560074
+Kundalahalli S.O	Bangalore	560037
+Laggere S.O	Bangalore	560058
+Legislators Home S.O	Bangalore	560001
+Lingarajapuram S.O	Bangalore	560084
+Madhavan Park S.O	Bangalore	560011
+Madivala S.O	Bangalore	560068
+Magadi Road S.O	Bangalore	560023
+Mahadevapura S.O	Bangalore	560048
+Mahalakshmipuram Layout S.O	Bangalore	560086
+Mahatma Gandhi Road S.O	Bangalore	560001
+Malkand Lines S.O	Bangalore	560033
+Mallathahalli B.O	Bangalore	560056
+Malleswaram S.O	Bangalore	560003
+Malleswaram West S.O	Bangalore	560055
+Marathahalli Colony S.O	Bangalore	560037
+Marsur B.O	Bangalore	562106
+Maruthi Sevanagar S.O	Bangalore	560033
+Mathikere S.O	Bangalore	560054
+Mavalli S.O	Bangalore	560004
+Mayasandra B.O	Bangalore	562107
+Medimallasandra B.O	Bangalore	560067
+Mico Layout S.O	Bangalore	560076
+Milk Colony S.O	Bangalore	560055
+Mount St Joseph B.O	Bangalore	560076
+Msrit S.O	Bangalore	560054
+Mundur B.O	Bangalore	560049
+Museum Road S.O	Bangalore	560025
+Muthanallur B.O	Bangalore	560099
+Muthusandra B.O	Bangalore	560087
+Nagarbhavi S.O	Bangalore	560072
+Nagasandra S.O (Bangalore)	Bangalore	560073
+Nagawara B.O	Bangalore	560045
+NAL S.O	Bangalore	560017
+Nandinilayout S.O	Bangalore	560096
+Narasimharaja Colony S.O	Bangalore	560019
+Nayandahalli S.O	Bangalore	560039
+Nelakadiranahalli B.O	Bangalore	560073
+Neralur B.O	Bangalore	562107
+New Thippasandra S.O	Bangalore	560075
+P&T Col. Kavalbyrasandra S.O	Bangalore	560032
+Padmanabhnagar S.O	Bangalore	560070
+Palace Guttahalli S.O	Bangalore	560003
+Pampamahakavi Road S.O	Bangalore	560004
+Panathur B.O	Bangalore	560103
+Peenya Dasarahalli S.O	Bangalore	560057
+Peenya I Stage S.O	Bangalore	560058
+Peenya II Stage S.O	Bangalore	560058
+Peenya Small Industries S.O	Bangalore	560058
+R T Nagar H.O	Bangalore	560032
+R.M.V. Extension II Stage S.O	Bangalore	560094
+Ragihalli B.O	Bangalore	560083
+Rajajinagar H.O	Bangalore	560010
+Rajajinagar IVth Block S.O	Bangalore	560010
+Rajanakunte B.O	Bangalore	560064
+Rajarajeshwarinagar S.O	Bangalore	560098
+Rajbhavan S.O (Bangalore)	Bangalore	560001
+Ramagondana Halli B.O	Bangalore	560066
+Ramamurthy Nagar S.O	Bangalore	560016
+Rameshnagar S.O	Bangalore	560037
+Ramohalli B.O	Bangalore	560074
+Richmond Town S.O	Bangalore	560025
+Rv Niketan S.O	Bangalore	560059
+Sadashivanagar S.O	Bangalore	560080
+Sahakaranagar P.O S.O	Bangalore	560092
+Samandur B.O	Bangalore	562106
+Sampangiramnagar S.O	Bangalore	560027
+Sarjapura S.O	Bangalore	562125
+Science Institute S.O	Bangalore	560012
+Seshadripuram S.O	Bangalore	560020
+Shanthinagar S.O	Bangalore	560027
+Sidihoskote B.O	Bangalore	562106
+Singanayakanahalli B.O	Bangalore	560064
+Sivan Chetty Gardens S.O	Bangalore	560042
+Sri Chowdeshwari S.O	Bangalore	560054
+Sri Jayachamarajendra Road S.O	Bangalore	560002
+Srirampuram S.O	Bangalore	560021
+St. John's Medical College S.O	Bangalore	560034
+St. Thomas Town S.O	Bangalore	560084
+State Bank Of Mysore Colony S.O	Bangalore	560050
+Subramanyapura S.O	Bangalore	560061
+Swimming Pool Extn S.O	Bangalore	560003
+Tarabanahalli B.O	Bangalore	560090
+Tarahunise B.O	Bangalore	562157
+Tataguni B.O	Bangalore	560062
+Tavarekere S.O (Bangalore)	Bangalore	562130
+Taverekere B.O	Bangalore	560029
+Thambuchetty palya B.O	Bangalore	560049
+Thammanayakanahalli B.O	Bangalore	562106
+Tilaknagar S.O (Bangalore)	Bangalore	560041
+Training Command IAF S.O	Bangalore	560006
+Tyagrajnagar S.O	Bangalore	560070
+Ullalu Upanagara B.O	Bangalore	560056
+Vanakanahalli B.O	Bangalore	562106
+Vartur S.O	Bangalore	560087
+Venkatarangapura S.O	Bangalore	560003
+Venkateshapura S.O	Bangalore	560045
+Vidhana Soudha S.O	Bangalore	560001
+Vidyanagara B.O	Bangalore	562157
+Vidyaranyapura S.O	Bangalore	560097
+Vijayanagar East S.O	Bangalore	560040
+Vijayanagar S.O (Bangalore)	Bangalore	560040
+Vimanapura S.O	Bangalore	560017
+Virgonagar S.O	Bangalore	560049
+Viswaneedam S.O	Bangalore	560091
+Viveknagar S.O (Bangalore)	Bangalore	560047
+Vyalikaval Extn S.O	Bangalore	560003
+West of Chord Road II stage S.O	Bangalore	560086
+Whitefield S.O	Bangalore	560066
+Wilson Garden S.O	Bangalore	560027
+Yadavanahalli B.O	Bangalore	562107
+Yelachenahalli S.O	Bangalore	560078
+Yelahanka S.O	Bangalore	560064
+Yelahanka Satellite Town S.O	Bangalore	560064
+Yemalur B.O	Bangalore	560037
+Yeshwanthpur Bazar S.O	Bangalore	560022
+Yeswanthpura S.O	Bangalore	560022
+Adarangi B.O	Bangalore Rural	561101
+Alurduddanahalli B.O	Bangalore Rural	562110
+Aluru B.O	Bangalore Rural	562123
+Anjanapura B.O	Bangalore Rural	560062
+Anneshwara B.O	Bangalore Rural	562110
+Antharahalli B.O	Bangalore Rural	561203
+Aradeshanahalli B.O	Bangalore Rural	562110
+Arakere B.O	Bangalore Rural	561203
+Arallumallige B.O	Bangalore Rural	561203
+Arasinakunte B.O	Bangalore Rural	562123
+Arebommnahalli B.O	Bangalore Rural	562111
+Arudi B.O	Bangalore Rural	561204
+Avathi B.O	Bangalore Rural	562110
+Baginigere B.O	Bangalore Rural	562131
+Baktharahalli B.O	Bangalore Rural	561204
+Banavadi B.O	Bangalore Rural	562127
+Baragenahalli B.O	Bangalore Rural	562111
+Basettihalli B.O	Bangalore Rural	561203
+Begur B.O	Bangalore Rural	562122
+Bendiganahalli B.O	Bangalore Rural	562129
+Bettakote B.O	Bangalore Rural	562129
+Bidalur B.O	Bangalore Rural	562110
+Bijjawara B.O	Bangalore Rural	562110
+Billanakote B.O	Bangalore Rural	562111
+Biskur B.O	Bangalore Rural	562131
+Budigere B.O	Bangalore Rural	562129
+Budihal B.O	Bangalore Rural	562123
+Byatha B.O	Bangalore Rural	560089
+Bylakere B.O	Bangalore Rural	562127
+Bylanarasapura B.O	Bangalore Rural	562122
+Channarayapatna B.O	Bangalore Rural	562135
+Chikkabanavara S.O	Bangalore Rural	560090
+Dasanapaura B.O	Bangalore Rural	562123
+Devanahalli S.O	Bangalore Rural	562110
+Devanahallifort S.O	Bangalore Rural	562110
+Devarahosahalli B.O	Bangalore Rural	562111
+Dobbespet S.O	Bangalore Rural	562111
+Dodballapura Bazar S.O	Bangalore Rural	561203
+Dodballapura S.O	Bangalore Rural	561203
+Doddabelavangala S.O	Bangalore Rural	561204
+Doddabele B.O	Bangalore Rural	562132
+Doddagattiganabbe B.O	Bangalore Rural	562114
+Doddahejjaji B.O	Bangalore Rural	561204
+Doddamudigere B.O	Bangalore Rural	562131
+Doddanallala B.O	Bangalore Rural	562114
+Doddasanne B.O	Bangalore Rural	562110
+Doddasomanahalli B.O	Bangalore Rural	562131
+Doddatumkur B.O	Bangalore Rural	561203
+Gangonahalli B.O	Bangalore Rural	562131
+Gantiganahalli B.O	Bangalore Rural	561205
+Gollahalli B.O	Bangalore Rural	562123
+Gudemaranahalli B.O	Bangalore Rural	562127
+Gundamgere B.O	Bangalore Rural	561203
+Hadonahalli B.O	Bangalore Rural	561205
+Hanabe B.O	Bangalore Rural	561203
+Harohalli B.O	Bangalore Rural	562135
+Hasigala B.O	Bangalore Rural	562114
+Heggadahalli B.O	Bangalore Rural	561205
+Hegganahalli B.O	Bangalore Rural	562110
+Heggunda B.O	Bangalore Rural	562111
+Hessarghatta Lake S.O	Bangalore Rural	560089
+Hessarghatta S.O	Bangalore Rural	560088
+Hindaganala B.O	Bangalore Rural	562122
+Honnasandra B.O	Bangalore Rural	562123
+Hosahalli B.O	Bangalore Rural	561203
+Hoskote Indl. Area B.O	Bangalore Rural	562114
+Hoskote S.O	Bangalore Rural	562114
+Hulikal B.O	Bangalore Rural	561101
+Hulikunte B.O	Bangalore Rural	561204
+Hullenahalli B.O	Bangalore Rural	562131
+Huskur B.O	Bangalore Rural	560099
+Huskur B.O	Bangalore Rural	562123
+Ibasapura B.O	Bangalore Rural	562129
+Jadigenahalli B.O	Bangalore Rural	562114
+Jakkanahalli B.O	Bangalore Rural	562123
+Jalige B.O	Bangalore Rural	562110
+Jodidasarahalli B.O	Bangalore Rural	562114
+K.Satyavara B.O	Bangalore Rural	562122
+Kadalappanahalli B.O	Bangalore Rural	561204
+Kadanur B.O	Bangalore Rural	561204
+Kagalipura B.O	Bangalore Rural	560082
+Kakolu B.O	Bangalore Rural	560089
+Kalkere B.O	Bangalore Rural	560083
+Kalkunte B.O	Bangalore Rural	560067
+Kambalu B.O	Bangalore Rural	562111
+Kanasavadi B.O	Bangalore Rural	561203
+Kannamangala B.O	Bangalore Rural	562110
+Kannamangala B.O	Bangalore Rural	561203
+Karahalli B.O	Bangalore Rural	562110
+Kattigenahalli B.O	Bangalore Rural	562114
+Kembliganahalli B.O	Bangalore Rural	562114
+Kengeri S.O	Bangalore Rural	560060
+Kengeri Upanagara B.O	Bangalore Rural	560060
+Kithanahalli B.O	Bangalore Rural	562130
+Kodigehalli B.O	Bangalore Rural	560091
+Kodigehalli B.O	Bangalore Rural	561203
+Koira B.O	Bangalore Rural	562110
+Koligere B.O	Bangalore Rural	561204
+Kollalagatta B.O	Bangalore Rural	562132
+Kollathur B.O	Bangalore Rural	562114
+Kongadiyappa Road S.O	Bangalore Rural	561203
+Konnagatta B.O	Bangalore Rural	561203
+Korati B.O	Bangalore Rural	562122
+Kudur S.O	Bangalore Rural	561101
+Kuluvanahalli B.O	Bangalore Rural	562111
+Kumbalahalli B.O	Bangalore Rural	562114
+Kundana B.O	Bangalore Rural	562110
+Lakkenahalli B.O	Bangalore Rural	562127
+Lakkondanahalli B.O	Bangalore Rural	562114
+Lakkur B.O	Bangalore Rural	562111
+Lakshmipura B.O	Bangalore Rural	562123
+Madalakote B.O	Bangalore Rural	562123
+Madavara B.O	Bangalore Rural	562123
+Madigondanahalli B.O	Bangalore Rural	562127
+Mahadevapura B.O	Bangalore Rural	562123
+Makali B.O	Bangalore Rural	562123
+Mallarabanavadi B.O	Bangalore Rural	562123
+Mallathahalli B.O	Bangalore Rural	561203
+Mandibele B.O	Bangalore Rural	562135
+Mandigere B.O	Bangalore Rural	562123
+Manne B.O	Bangalore Rural	562132
+Manniganahalli B.O	Bangalore Rural	562127
+Maralakunte B.O	Bangalore Rural	562111
+Marasandra B.O	Bangalore Rural	561101
+Marikuppe B.O	Bangalore Rural	562127
+Mathahalli B.O	Bangalore Rural	562123
+Mayasandra B.O	Bangalore Rural	561101
+Melekote S.O	Bangalore Rural	561205
+Motagondanahalli B.O	Bangalore Rural	562127
+Mugabala B.O	Bangalore Rural	562114
+Mullahalli B.O	Bangalore Rural	562119
+Mylanahalli B.O	Bangalore Rural	562123
+Naduvathi B.O	Bangalore Rural	560067
+Nandagudi S.O	Bangalore Rural	562122
+Narasandra B.O	Bangalore Rural	562127
+Narasipura B.O	Bangalore Rural	562111
+Narayanapura B.O	Bangalore Rural	562135
+Nelamangala S.O	Bangalore Rural	562123
+Nelavagilu B.O	Bangalore Rural	562122
+Niduvanda B.O	Bangalore Rural	562132
+Obalapura B.O	Bangalore Rural	562132
+Purushanahalli B.O	Bangalore Rural	561204
+Rajaghatta B.O	Bangalore Rural	561203
+Rameshwara B.O	Bangalore Rural	561204
+Reddihalli B.O	Bangalore Rural	562129
+Sadahalli B.O	Bangalore Rural	562110
+Sakalavara B.O	Bangalore Rural	560083
+Sakkaaregollahalli B.O	Bangalore Rural	561204
+Samethanahalli B.O	Bangalore Rural	560067
+Sankighatta B.O	Bangalore Rural	562131
+Sasalu B.O	Bangalore Rural	561204
+Shivagange B.O	Bangalore Rural	562111
+Shivakote B.O	Bangalore Rural	560089
+Shivanapura B.O	Bangalore Rural	562123
+Shivanapura B.O	Bangalore Rural	562122
+Shivapura B.O	Bangalore Rural	561203
+Silvepura B.O	Bangalore Rural	560090
+Singasandra B.O	Bangalore Rural	560068
+Sirigiripura B.O	Bangalore Rural	561101
+Soladevanahalli B.O	Bangalore Rural	562130
+Solur S.O	Bangalore Rural	562127
+Somanhalli B.O	Bangalore Rural	560082
+Sondekoppa B.O	Bangalore Rural	562130
+Sri Subramanyaghati B.O	Bangalore Rural	561203
+Sugganahalli B.O	Bangalore Rural	561101
+Sulebele S.O	Bangalore Rural	562129
+Sulikere B.O	Bangalore Rural	560060
+Syakaladevanapura B.O	Bangalore Rural	561204
+Talaghatapura B.O	Bangalore Rural	560062
+Taralu B.O	Bangalore Rural	560082
+Tavarekere B.O	Bangalore Rural	562122
+Teppadabeguru B.O	Bangalore Rural	562123
+Thattekuppe B.O	Bangalore Rural	560082
+Thippasandra S.O	Bangalore Rural	562131
+Tippur B.O	Bangalore Rural	561203
+Tubugere B.O	Bangalore Rural	561205
+Tyamagondlu S.O	Bangalore Rural	562132
+Udaypura S.O	Bangalore Rural	560082
+Udukunte B.O	Bangalore Rural	562127
+Uganavadi B.O	Bangalore Rural	562110
+Vagata Agrahara B.O	Bangalore Rural	562114
+Veerapura B.O	Bangalore Rural	561203
+Venkatagirikote B.O	Bangalore Rural	562110
+Vijayapaura S.O	Bangalore Rural	562135
+Vishwanathapura B.O	Bangalore Rural	562110
+Yelekyathanahalli B.O	Bangalore Rural	562111
+Yeliyur B.O	Bangalore Rural	562110
+Yennegere B.O	Bangalore Rural	562127
+Yentiganahalli B.O	Bangalore Rural	562123
