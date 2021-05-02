@@ -22,7 +22,7 @@ def task():
         count=1
         for i in f_list:
             for j in i["sessions"]:
-                if(j['min_age_limit']==18 && j['available_capacity']>0):
+                if(j['min_age_limit']==18 and j['available_capacity']>0):
                     hits+=1
                     print(tot,".",count,":")
                     print("\tname of hospital :",i['name'])
